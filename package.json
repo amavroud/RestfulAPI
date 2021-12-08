@@ -1,0 +1,22 @@
+{
+  "name": "lab5-amavroud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaimaaAliECE/lab5-amavroud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaimaaAliECE/lab5-amavroud/issues"
+  },
+  "homepage": "https://github.com/ShaimaaAliECE/lab5-amavroud#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
